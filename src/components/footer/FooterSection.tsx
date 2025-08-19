@@ -6,7 +6,6 @@ const links = [
     group: "Product",
     items: [
       { title: "Features", href: "#" },
-      { title: "Solution", href: "#" },
       { title: "Customers", href: "#" },
       { title: "Pricing", href: "#" },
       { title: "Help", href: "#" },
@@ -17,11 +16,11 @@ const links = [
     group: "Company",
     items: [
       { title: "About", href: "#" },
-      { title: "Careers", href: "#" },
+      // { title: "Careers", href: "#" },
       { title: "Blog", href: "#" },
       { title: "Press", href: "#" },
       { title: "Contact", href: "#" },
-      { title: "Help", href: "#" },
+      // { title: "Help", href: "#" },
     ],
   },
   {

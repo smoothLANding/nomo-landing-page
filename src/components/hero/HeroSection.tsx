@@ -41,7 +41,7 @@ export const HeroSection: React.FC = () => {
                 <div className="rounded-xl border p-0.5">
                   <Button asChild size="lg" className="rounded-xl px-5 text-base">
                     <Link href="#link">
-                        <span className="text-nowrap">Try<GradientText preset="rainbow" animate className="font-bold"> nomo</GradientText> for free</span>
+                        <span className="text-nowrap">Try<GradientText preset="sunset" animate className="font-bold"> nomo</GradientText> for free</span>
                     </Link>
                   </Button>
                 </div>
